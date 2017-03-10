@@ -1,2 +1,5 @@
 language: cpp
-script: scons
+script: 
+- cmake -H. -B_build
+- cmake --build _build
+./_build/tests
