@@ -1,5 +1,5 @@
 #include "catch.hpp"
-double Summ ( double A, double B )
+double SUMM ( double A, double B )
   {
   return A+B;
   };
