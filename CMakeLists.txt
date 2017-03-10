@@ -1,3 +1,3 @@
 add_executable (tests
-mail.cpp bar.cpp
+main.cpp bar.cpp
 )
